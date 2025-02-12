@@ -2,7 +2,7 @@
 Instructions:
 
 1. Use the template file provided to write your code.
-2. Do not modify any function definition.
+2. Do not modify any function signature.
 3. Write your logic inside the function as comments.
 
 

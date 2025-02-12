@@ -1,0 +1,1 @@
+This repo has supporting documents and practice problems for the course `R and Python for finance` conducted by NSE.

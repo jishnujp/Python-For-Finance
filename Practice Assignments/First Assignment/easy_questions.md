@@ -1,4 +1,4 @@
-## Sample Assignment Questions
+## Easy Assignment Questions
 Instructions:
 
 1. Use the template file provided to write your code.

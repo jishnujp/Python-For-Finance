@@ -1,4 +1,4 @@
-## Prime or Not
+## Sample Assignment Questions
 Instructions:
 
 1. Use the template file provided to write your code.

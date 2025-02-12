@@ -17,6 +17,7 @@ Example:
 
 ## Question 2: ATM Withdrawal 
 Write a function `withdrawal` that takes an integer as input and returns the denominations of notes to be dispensed. The function should return the minimum number of notes. The available denominations are ₹2000, ₹500, and ₹100.
+If the amount cannot be withdrawn using the available denominations, return an empty dictionary.
 
 Example:
 - `withdrawal(2800)`  # Returns {'2000': 1, '500': 1, '100': 3}

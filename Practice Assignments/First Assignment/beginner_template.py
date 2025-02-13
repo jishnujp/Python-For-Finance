@@ -35,9 +35,9 @@ if __name__ == "__main__":
 
     add_numbers_test_cases = [((2, 3), 5), ((3, 4), 7), ((0, 0), 0)]
     simple_interest_test_cases = [
-        ((1000, 5, 2), 100),
-        ((2000, 10, 3), 600),
-        ((0, 0, 0), 0),
+        ((1000, 5, 2), 100.0),
+        ((2000, 10, 3), 600.0),
+        ((0, 0, 0), 0.0),
     ]
     check_number_test_cases = [((2,), "Positive"), ((-3,), "Negative"), ((0,), "Zero")]
 

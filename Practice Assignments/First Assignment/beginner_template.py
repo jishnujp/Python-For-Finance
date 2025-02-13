@@ -27,7 +27,7 @@ if __name__ == "__main__":
             if type(recieved) != type(expected):
                 print(f"❌ Test failed for {func.__name__} with input {n}")
                 return False
-            elif func(n) != expected:
+            elif recieved != expected:
                 print(f"❌ Test failed for {func.__name__} with input {n}")
                 return False
         print(f"✅ All Test passed for {func.__name__}")
